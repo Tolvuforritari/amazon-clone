@@ -1,0 +1,29 @@
+.language-select {
+    position: relative;
+    font-family: Arial;
+    width: 50px;
+  }
+  
+
+.language-select select {
+     background-color: transparent;
+     color: white;
+     border: none;
+     appearance: none;
+     font-weight: 800;
+     margin-top: -5px;
+     justify-content: start;
+     align-items: st;
+  }
+
+  .language-select option {}
+
+  .language-select .MuiSvgIcon-root {
+    font-size: 17px;
+    margin-bottom: -3px;
+    font-weight: 800;
+    
+  }
+
+  
+
