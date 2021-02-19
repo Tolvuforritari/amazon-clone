@@ -29,7 +29,6 @@ function App({ t }) {
       unsubscribe();
     };
   }, []);
-  console.log("USER is >>>", user);
 
   return (
     <Router>
